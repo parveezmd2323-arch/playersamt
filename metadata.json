@@ -1,0 +1,7 @@
+{
+  "name": "SPSIB Pro Ledger",
+  "description": "A professional financial ledger for the SPSIB Association with PWA support and offline-first storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
